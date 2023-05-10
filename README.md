@@ -8,7 +8,7 @@ i mainly work with, as stated, monogame with c#.
 
 *best at:* monogame, .net, c#
 
-*also did:* gamemaker (fuck that now), actionscript
+*also did:* gamemaker (fuck that now), actionscript, python, pygame
 
 *want to learn at some point:* sdl, sfml, c++, haxe
 
