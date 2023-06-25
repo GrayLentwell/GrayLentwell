@@ -10,6 +10,6 @@ i mainly work with, as stated, monogame with c#.
 
 *also did:* gamemaker (fuck that now), actionscript, python, pygame
 
-*want to learn at some point:* sdl, sfml, c++, haxe
+*trying to learn:* sdl, c++, haxe, sfml.net
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graylentwell&show_icons=true&theme=prussian)
