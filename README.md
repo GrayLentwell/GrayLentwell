@@ -12,4 +12,4 @@ i mainly work with, as stated, monogame with c#.
 
 *trying to learn:* sdl, c++, haxe, sfml.net
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graylentwell&show_icons=true&theme=prussian)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraysonMakesGames&show_icons=true&theme=prussian)
