@@ -8,8 +8,10 @@ i mainly work with, as stated, monogame with c#.
 
 *best at:* monogame, .net, c#
 
+*currently doing:* sdl, c++
+
 *also did:* gamemaker (fuck that now), actionscript, python, pygame
 
-*trying to learn:* sdl, c++, haxe, sfml.net
+*trying to learn:* haxe, sfml.net
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GraysonMakesGames&show_icons=true&theme=prussian)
