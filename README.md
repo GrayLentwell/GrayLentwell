@@ -1,3 +1,9 @@
+# HI I DONT USE GITHUB ANYMORE
+## i'm on gitlab now.
+### go to https://gitlab.com/graysonmakesgames
+
+# original thing for the sake of preservation ig.
+
 terraria kfc what the fuck
 
 # hi.
